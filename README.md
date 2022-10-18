@@ -1,6 +1,6 @@
 # Hello Rails Backend
 
-> Demo of api
+> Demo of api connection
 
 ## Built With
 
