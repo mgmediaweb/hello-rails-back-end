@@ -1,6 +1,6 @@
 # Hello Rails Backend
 
-> Demo of app the rea
+> Demo of api
 
 ## Built With
 
