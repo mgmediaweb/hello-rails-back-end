@@ -7,6 +7,9 @@
 - Ruby on Rails
 - PostgreSQL
 
+## Front End Repository (React JS)
+https://github.com/mgmediaweb/hello-react-front-end/tree/frontend
+
 ## Getting Started
 
 - Open the repository [link](https://github.com/mgmediaweb/hello-rails-back-end).
